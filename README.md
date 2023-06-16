@@ -4,6 +4,7 @@
 
 ## Code
 - The main files are inside the **lib** folder.
+- The application is build using **Flutter**, a.k.a. **Dart**.
 
 ## View
 - To be able to run the app, you will need to download the whole project and save it on your local machine.
