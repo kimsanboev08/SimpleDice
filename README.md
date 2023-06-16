@@ -8,7 +8,7 @@
 
 ## View
 - To be able to run the app, you will need to download the whole project and save it on your local machine.
-- For **Windows**, you will need to have either an android phone connected to your machine, or have virtual device running from an **Android Studio** virtual device manager. Run the **main.dart** file in any editor that is connected to your device, and you are all set.
+- For **Windows**, you will need to have either an android phone connected to your machine, or have a virtual device running from an **Android Studio** virtual device manager. Run the **main.dart** file in any editor that is connected to your device, and you are all set.
 - For **MacOS**, you can do the same having your IOS device connected to it. Or you can use the **Android Studio** as well.
   
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
