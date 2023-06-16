@@ -1,16 +1,3 @@
-# dice
+# SimpleDice
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+SimpleDice: A minimalist dice roller app for Android and iOS built using Flutter. Roll the virtual dice with a tap and get a random result every time. Perfect for quick decision-making, board games, and recreational fun.
